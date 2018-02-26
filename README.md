@@ -1,2 +1,2 @@
 # pythonAlgoritmhs
-algoritmos resueltos en python de diversas fuentes
+Talleres y programas del curso algoritmos 2018-1
